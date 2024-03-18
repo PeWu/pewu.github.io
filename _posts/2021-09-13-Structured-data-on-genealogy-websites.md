@@ -9,6 +9,7 @@ tag:
 - structured-data
 imagecredit_id: "@killerfvith"
 imagecredit_name: "Alex wong"
+comments: true
 ---
 
 ![]({{ site.baseurl }}/images/alex-wong-l5Tzv1alcps-unsplash.jpg)

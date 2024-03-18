@@ -8,6 +8,7 @@ tag:
 - linked-data
 imagecredit_id: "@lauracathleen"
 imagecredit_name: "Laura Fuhrman"
+comments: true
 ---
 
 ![]({{ site.baseurl }}/images/laura-fuhrman-73OJLcahQHg-unsplash.jpg)
