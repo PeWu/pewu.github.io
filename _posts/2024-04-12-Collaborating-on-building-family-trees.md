@@ -16,7 +16,7 @@ comments: true
 
 Genealogy, an ancient practice, has seen people collaborating on family trees for centuries. Today, the predominant method for genealogical research involves the use of software, which facilitates collaboration.
 
-I myself struggle with maintaining my genealogy data. As long as I'm the only one adding data, it's easy. However, when it comes to ingesting data from others, I mostly rely on just manually copying information, which is often dedious and error-prone. Moreover, I don't have a truly automated way of getting updates whenever a new piece of information appears in one of the sources I track.
+I myself struggle with maintaining my genealogy data. As long as I'm the only one adding data, it's easy. However, when it comes to ingesting data from others, I mostly rely on just manually copying information, which is often tedious and error-prone. Moreover, I don't have a truly automated way of getting updates whenever a new piece of information appears in one of the sources I track.
 
 In this discussion, explore how we can leverage technology for effective genealogical collaboration paying special attention to data privacy and ownership.
 
@@ -113,13 +113,13 @@ Several applications offer family tree merge functionality. Below is a compilati
 
 ### Gramps Import Merge Tool
 
-https://gramps-project.org/wiki/index.php/Addon:Import_Merge_Tool
+[https://gramps-project.org/wiki/index.php/Addon:Import_Merge_Tool](https://gramps-project.org/wiki/index.php/Addon:Import_Merge_Tool)
 
 This tool shows differences between two Gramps databases. However, it only works when the 2 family trees are derived from the same Gramps database. The assumption is that matching individuals already have identical identifiers, so the matching part of the process is not needed.
 
 ### genmatcher
 
-http://www.mudcreeksoftware.com/
+[http://www.mudcreeksoftware.com/](http://www.mudcreeksoftware.com/)
 
 This program does a lot of what I described. However, I have only tried the demo version which is very limited.
 
@@ -131,7 +131,7 @@ The site description promises a lot of what I described. There is a trial versio
 
 ### gedcom CLI tool
 
-https://github.com/elliotchance/gedcom
+[https://github.com/elliotchance/gedcom](https://github.com/elliotchance/gedcom)
 
 This is an open source command line tool that does provide a comparison functionality.
 
